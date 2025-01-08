@@ -1,2 +1,4 @@
-# cprograms
- This is my programing where i practice c
+#   C programimg Lab
+ This is my programing where I practice c
+## Functions
+## Pointers
