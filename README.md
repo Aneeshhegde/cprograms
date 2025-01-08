@@ -1,4 +1,4 @@
 #   C programimg Lab
- This is my programing where I practice c
+ This is my workspace where I practice c
 ## Functions
 ## Pointers
