@@ -68,6 +68,7 @@ void print(){
 
     }
     else{
+        printf("\n ");
         printf("\n The Elements present in the stack:\n");
         for(int i=top;i>=0;i--){
             printf("\n %d",inp_array[i]);
